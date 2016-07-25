@@ -22,7 +22,7 @@ from math import exp, log, sqrt
 
 # parameters #################################################################
 
-train = '/Users/yihui/Downloads/ad-ml/kaggle-2014-criteo/train.csv'  # path to training file
+train = '/Users/yihui/Downloads/ad-ml/kaggle-2014-criteo/train1.csv'  # path to training file
 test = '/Users/yihui/Downloads/ad-ml/kaggle-2014-criteo/test.csv'  # path to testing file
 
 D = 2 ** 20   # number of weights use for learning
