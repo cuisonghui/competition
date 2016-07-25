@@ -24,8 +24,8 @@
       <file leaf-file-name="kaggle-2014-criteo-ad-display-200M.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kaggle-2014-criteo-ad-display-200M.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6766917">
-              <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+            <state vertical-scroll-proportion="0.56390977">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="e#484#513#0" expanded="true" />
               </folding>
@@ -471,8 +471,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kaggle-2014-criteo-ad-display-200M.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6766917">
-          <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+        <state vertical-scroll-proportion="0.56390977">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="e#484#513#0" expanded="true" />
           </folding>
