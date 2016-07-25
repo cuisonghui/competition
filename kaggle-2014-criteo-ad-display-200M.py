@@ -24,6 +24,7 @@ from math import exp, log, sqrt
 
 train = '/Users/yihui/Downloads/ad-ml/kaggle-2014-criteo/t111rain.csv'  # path to training file
 test = '/Users/yihui/Downloads/ad-ml/kaggle-2014-criteo/test.csv'  # path to testing file
+test1 = '/Users/yihui/Downloads/ad-ml/kaggle-2014-criteo/test.csv'  # path to testing file
 
 D = 2 ** 20   # number of weights use for learning
 alpha = .1    # learning rate for sgd optimization
